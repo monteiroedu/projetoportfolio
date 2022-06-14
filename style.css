@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(image/fundo.png) no-repeat;
+    background: url(assets/image/fundo.png) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -365,6 +365,7 @@ section .title::after{
 .contact .contact-content .left .icons{
     margin: 10px 0;
 }
+
 .contact .contact-content .row{
     display: flex;
     height: 65px;
@@ -373,6 +374,11 @@ section .title::after{
 .contact .contact-content .row .info{
     margin-left: 30px
 }
+
+#head{
+    text-decoration-color: black;
+}
+
 .contact .contact-content .row .info .head{
     font-weight: 500;
 }
