@@ -13,7 +13,7 @@ html{
     padding: 0 80px;
     margin: auto;
 }
-/*  navbar   inicio*/
+
 .navbar{
     position: fixed;
     width: 100%;
@@ -60,7 +60,7 @@ html{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
-/*  Home   inicio  */
+
 .home{
     display: flex;
     background: url(assets/image/fundo.png) no-repeat;
